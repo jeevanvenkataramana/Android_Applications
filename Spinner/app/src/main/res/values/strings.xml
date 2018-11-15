@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="select_help">Select Help</string>
+    <string-array name="incidents">
+        <item>           </item>
+        <item>Earth Quake</item>
+        <item>Fire</item>
+        <item>Cuts and Grazes</item>
+    </string-array>
+</resources>
