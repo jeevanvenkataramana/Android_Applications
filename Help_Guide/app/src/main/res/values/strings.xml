@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="select_help">Emergency</string>
+    <string-array name="incidents">
+        <item>           </item>
+        <item>Earth Quake</item>
+        <item>Fire</item>
+        <item>Cuts and Grazes</item>
+        <item>Heart Attack</item>
+    </string-array>
+    <string-array name="helplines">
+        <item>           </item>
+        <item>Police</item>
+        <item>Ambulance</item>
+        <item>Fire Station</item>
+    </string-array>
+
+
+
+</resources>
